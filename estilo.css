@@ -1,4 +1,104 @@
 html,body{
-    margin: 2%;
-    color: green;
+    margin: 0;
+    background-color: rgb(0, 0, 0);
+    
 }
+#imagem_fundo{
+ background: url(fundo.jpg);
+ height: 100%;
+ text-align:center;
+ background-size:cover ;
+
+}
+#titulo{
+ color:rgb(255, 255, 255); 
+ padding-top: 17%;
+ font-size: 100px;
+
+}
+#subtitulo{
+    color:rgb(255, 247, 247);
+    padding-left: 20%;
+    padding-right:  20%; 
+    font-size: 50px;
+
+}
+
+#ação{
+    color:rgb(255, 255, 255);
+    border: 1px;
+    padding:10px 10px 10px 10px;
+    font-size: 40px;
+
+}
+#teste{
+    color: rgb(0, 190, 10);
+    margin: 3%;
+    padding: initial;
+    text-align: center;
+    font-size: 29px;
+}
+#img{
+    padding: 10%;
+    font-size: center;
+    background-size: cover;
+}
+
+ 
+ 
+ #videos{
+    margin: 100px;
+    
+}
+
+ #sobre{
+     background-color: rgb(56, 52, 52);
+     color: rgb(255, 255, 255);
+     background: 100px;
+     font-size: 24px;
+     
+ }
+ .coluna{
+     float:left;
+     color: rgb(3, 150, 69);
+     font-size: 40px;
+
+ }
+ .coluna2{
+     color: darkgreen;
+     font-size: 30px;
+ }
+ .coluna1{
+     position: relative;  
+     padding: initial;
+     text-align: center;
+     padding-top:17%;
+ }
+ section{
+     padding:20px;
+     float: left;
+ }
+.justificado{
+    text-align: justify;
+}
+.centralizado{
+    text-align: center;
+}
+.colunaquatro{
+    float: left;
+    padding: 5%;
+    position: relative;
+    width: 22%;
+}
+#incone{
+    height: 100%;
+    text-align:center;
+    background-size:cover ;
+}
+ 
+ 
+ 
+
+
+
+    
